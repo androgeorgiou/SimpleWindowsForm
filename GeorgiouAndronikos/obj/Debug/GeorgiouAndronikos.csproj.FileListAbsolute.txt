@@ -1,0 +1,11 @@
+C:\Coding\GeorgiouAndronikos\bin\Debug\GeorgiouAndronikos.exe.config
+C:\Coding\GeorgiouAndronikos\bin\Debug\GeorgiouAndronikos.exe
+C:\Coding\GeorgiouAndronikos\bin\Debug\GeorgiouAndronikos.pdb
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.csproj.AssemblyReference.cache
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.Form1.resources
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.Properties.Resources.resources
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.csproj.GenerateResource.cache
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.csproj.CoreCompileInputs.cache
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.exe
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.pdb
+C:\Coding\GeorgiouAndronikos\obj\Debug\GeorgiouAndronikos.Form2.resources
